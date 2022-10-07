@@ -2362,3 +2362,294 @@ DEBUG   2022-10-06 10:29:26,069 [driver_wrapper] Window size: 1292 x 741
 DEBUG   2022-10-06 10:29:26,069 [connectionpool] http://127.0.0.1:50735 "POST /session/653bec7b8b7f98a07361385a7e907e69/timeouts HTTP/1.1" 200 14
 INFO    2022-10-06 10:29:26,069 [environment] Running new scenario: All login -- @1.2 Usernames and Password
 INFO    2022-10-06 10:29:52,398 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 11:21:52,019 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 11:21:52,020 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 11:21:52,023 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 11:21:52,023 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 11:21:52,023 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 11:21:53,027 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:44919
+DEBUG   2022-10-06 11:21:53,384 [connectionpool] http://127.0.0.1:44919 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 11:21:53,488 [connectionpool] http://127.0.0.1:44919 "POST /session/782583f157820b251672951056d7347b/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 11:21:53,488 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 11:21:53,592 [connectionpool] http://127.0.0.1:44919 "POST /session/782583f157820b251672951056d7347b/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:21:53,594 [connectionpool] http://127.0.0.1:44919 "GET /session/782583f157820b251672951056d7347b/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:21:53,594 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 11:21:53,595 [connectionpool] http://127.0.0.1:44919 "POST /session/782583f157820b251672951056d7347b/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 11:21:53,595 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 11:22:20,677 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 11:22:20,739 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 11:22:20,739 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 11:22:20,740 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 11:22:20,740 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 11:22:20,740 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 11:22:21,742 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:60305
+DEBUG   2022-10-06 11:22:22,006 [connectionpool] http://127.0.0.1:60305 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 11:22:22,137 [connectionpool] http://127.0.0.1:60305 "POST /session/89e512f4e5d4967fa61a730c0873f5f1/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 11:22:22,137 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 11:22:22,240 [connectionpool] http://127.0.0.1:60305 "POST /session/89e512f4e5d4967fa61a730c0873f5f1/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:22:22,243 [connectionpool] http://127.0.0.1:60305 "GET /session/89e512f4e5d4967fa61a730c0873f5f1/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:22:22,243 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 11:22:22,243 [connectionpool] http://127.0.0.1:60305 "POST /session/89e512f4e5d4967fa61a730c0873f5f1/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 11:22:22,244 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 11:22:48,585 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 11:32:16,791 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 11:32:16,791 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 11:32:16,794 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 11:32:16,794 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 11:32:16,794 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 11:32:17,797 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:55451
+DEBUG   2022-10-06 11:32:18,452 [connectionpool] http://127.0.0.1:55451 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 11:32:18,590 [connectionpool] http://127.0.0.1:55451 "POST /session/ab218547c0b1311bf2f00c846f40d2ac/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 11:32:18,591 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 11:32:18,698 [connectionpool] http://127.0.0.1:55451 "POST /session/ab218547c0b1311bf2f00c846f40d2ac/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:32:18,700 [connectionpool] http://127.0.0.1:55451 "GET /session/ab218547c0b1311bf2f00c846f40d2ac/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:32:18,700 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 11:32:18,701 [connectionpool] http://127.0.0.1:55451 "POST /session/ab218547c0b1311bf2f00c846f40d2ac/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 11:32:18,714 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 11:32:46,361 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 11:32:46,439 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 11:32:46,440 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 11:32:46,441 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 11:32:46,441 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 11:32:46,441 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 11:32:47,445 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:36497
+DEBUG   2022-10-06 11:32:47,989 [connectionpool] http://127.0.0.1:36497 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 11:32:48,102 [connectionpool] http://127.0.0.1:36497 "POST /session/135cd608b402cf061973a2babc1c2728/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 11:32:48,102 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 11:32:48,226 [connectionpool] http://127.0.0.1:36497 "POST /session/135cd608b402cf061973a2babc1c2728/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:32:48,254 [connectionpool] http://127.0.0.1:36497 "GET /session/135cd608b402cf061973a2babc1c2728/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 11:32:48,254 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 11:32:48,256 [connectionpool] http://127.0.0.1:36497 "POST /session/135cd608b402cf061973a2babc1c2728/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 11:32:48,282 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 11:33:14,808 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 12:03:44,414 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:03:44,414 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:03:44,416 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:03:44,416 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:03:44,416 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:03:45,420 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48709
+DEBUG   2022-10-06 12:03:47,748 [connectionpool] http://127.0.0.1:48709 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:03:47,912 [connectionpool] http://127.0.0.1:48709 "POST /session/79464ff6fd239285d91399226059d791/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:03:47,913 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:03:48,585 [connectionpool] http://127.0.0.1:48709 "POST /session/79464ff6fd239285d91399226059d791/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:03:48,697 [connectionpool] http://127.0.0.1:48709 "GET /session/79464ff6fd239285d91399226059d791/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:03:48,698 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:03:48,699 [connectionpool] http://127.0.0.1:48709 "POST /session/79464ff6fd239285d91399226059d791/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:03:48,711 [environment] Running new scenario: add to the cart
+ERROR   2022-10-06 12:03:48,716 [environment] The scenario 'add to the cart' has failed
+INFO    2022-10-06 12:03:49,557 [driver_utils] Screenshot saved in /home/okuhle/Downloads/Saucedemo 5/Saucedemo/output/screenshots/2022-10-06_120344_chrome/01_add_to_the_cart.png
+DEBUG   2022-10-06 12:03:49,560 [driver_utils] Reading driver logs of types 'browser, driver' and writing them to log files
+DEBUG   2022-10-06 12:03:49,676 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:03:49,676 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:03:49,676 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:03:49,676 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:03:49,677 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:03:50,682 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:39237
+DEBUG   2022-10-06 12:03:53,064 [connectionpool] http://127.0.0.1:39237 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:03:53,503 [connectionpool] http://127.0.0.1:39237 "POST /session/254537fdfba30f04e921edc8c28b88d1/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:03:53,506 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:03:53,979 [connectionpool] http://127.0.0.1:39237 "POST /session/254537fdfba30f04e921edc8c28b88d1/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:03:54,021 [connectionpool] http://127.0.0.1:39237 "GET /session/254537fdfba30f04e921edc8c28b88d1/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:03:54,021 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:03:54,022 [connectionpool] http://127.0.0.1:39237 "POST /session/254537fdfba30f04e921edc8c28b88d1/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:03:54,029 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 12:04:25,457 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 12:04:25,566 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:04:25,566 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:04:25,566 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:04:25,567 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:04:25,567 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:04:26,571 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:53459
+DEBUG   2022-10-06 12:04:27,532 [connectionpool] http://127.0.0.1:53459 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:04:27,651 [connectionpool] http://127.0.0.1:53459 "POST /session/9d02b83fced9b95dbb251a61bd1bccbc/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:04:27,651 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:04:28,087 [connectionpool] http://127.0.0.1:53459 "POST /session/9d02b83fced9b95dbb251a61bd1bccbc/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:04:28,124 [connectionpool] http://127.0.0.1:53459 "GET /session/9d02b83fced9b95dbb251a61bd1bccbc/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:04:28,124 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:04:28,125 [connectionpool] http://127.0.0.1:53459 "POST /session/9d02b83fced9b95dbb251a61bd1bccbc/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:04:28,131 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 12:04:55,886 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 12:05:52,638 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:05:52,638 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:05:52,640 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:05:52,640 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:05:52,641 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:05:53,644 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:57425
+DEBUG   2022-10-06 12:05:54,620 [connectionpool] http://127.0.0.1:57425 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:05:54,731 [connectionpool] http://127.0.0.1:57425 "POST /session/eae4f90ffda6fc38ac54f82d6885fbc0/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:05:54,732 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:05:55,049 [connectionpool] http://127.0.0.1:57425 "POST /session/eae4f90ffda6fc38ac54f82d6885fbc0/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:05:55,239 [connectionpool] http://127.0.0.1:57425 "GET /session/eae4f90ffda6fc38ac54f82d6885fbc0/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:05:55,242 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:05:55,250 [connectionpool] http://127.0.0.1:57425 "POST /session/eae4f90ffda6fc38ac54f82d6885fbc0/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:05:55,257 [environment] Running new scenario: add to the cart
+ERROR   2022-10-06 12:05:55,261 [environment] The scenario 'add to the cart' has failed
+INFO    2022-10-06 12:05:55,537 [driver_utils] Screenshot saved in /home/okuhle/Downloads/Saucedemo 5/Saucedemo/output/screenshots/2022-10-06_120552_chrome/01_add_to_the_cart.png
+DEBUG   2022-10-06 12:05:55,538 [driver_utils] Reading driver logs of types 'browser, driver' and writing them to log files
+DEBUG   2022-10-06 12:05:55,638 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:05:55,639 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:05:55,639 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:05:55,639 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:05:55,639 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:05:56,643 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43761
+DEBUG   2022-10-06 12:05:57,612 [connectionpool] http://127.0.0.1:43761 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:05:57,736 [connectionpool] http://127.0.0.1:43761 "POST /session/809e47d80ce20a25d49191018970a675/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:05:57,736 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:05:57,983 [connectionpool] http://127.0.0.1:43761 "POST /session/809e47d80ce20a25d49191018970a675/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:05:58,007 [connectionpool] http://127.0.0.1:43761 "GET /session/809e47d80ce20a25d49191018970a675/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:05:58,007 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:05:58,013 [connectionpool] http://127.0.0.1:43761 "POST /session/809e47d80ce20a25d49191018970a675/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:05:58,019 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 12:06:25,881 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 12:06:25,989 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 12:06:25,990 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 12:06:25,990 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 12:06:25,991 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 12:06:25,991 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 12:06:26,996 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43303
+DEBUG   2022-10-06 12:06:28,091 [connectionpool] http://127.0.0.1:43303 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 12:06:28,206 [connectionpool] http://127.0.0.1:43303 "POST /session/0c730ddff28a72dee4f1b4a525e8fa6e/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 12:06:28,207 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 12:06:28,314 [connectionpool] http://127.0.0.1:43303 "POST /session/0c730ddff28a72dee4f1b4a525e8fa6e/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:06:28,319 [connectionpool] http://127.0.0.1:43303 "GET /session/0c730ddff28a72dee4f1b4a525e8fa6e/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 12:06:28,319 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 12:06:28,320 [connectionpool] http://127.0.0.1:43303 "POST /session/0c730ddff28a72dee4f1b4a525e8fa6e/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 12:06:28,340 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 12:06:56,758 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 13:13:16,609 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:13:16,610 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:13:16,612 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:13:16,612 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:13:16,612 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:13:17,617 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43469
+DEBUG   2022-10-06 13:13:18,881 [connectionpool] http://127.0.0.1:43469 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:13:18,998 [connectionpool] http://127.0.0.1:43469 "POST /session/cdb82b2afeda36787560393c968da2eb/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:13:18,998 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:13:19,468 [connectionpool] http://127.0.0.1:43469 "POST /session/cdb82b2afeda36787560393c968da2eb/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:13:19,479 [connectionpool] http://127.0.0.1:43469 "GET /session/cdb82b2afeda36787560393c968da2eb/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:13:19,479 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:13:19,480 [connectionpool] http://127.0.0.1:43469 "POST /session/cdb82b2afeda36787560393c968da2eb/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:13:19,487 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 13:13:48,771 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 13:13:48,894 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:13:48,895 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:13:48,895 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:13:48,895 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:13:48,896 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:13:49,901 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:42359
+DEBUG   2022-10-06 13:13:50,990 [connectionpool] http://127.0.0.1:42359 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:13:51,118 [connectionpool] http://127.0.0.1:42359 "POST /session/880364cc914f32e18a1dbc0b2743ccbc/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:13:51,119 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:13:51,375 [connectionpool] http://127.0.0.1:42359 "POST /session/880364cc914f32e18a1dbc0b2743ccbc/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:13:51,396 [connectionpool] http://127.0.0.1:42359 "GET /session/880364cc914f32e18a1dbc0b2743ccbc/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:13:51,396 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:13:51,399 [connectionpool] http://127.0.0.1:42359 "POST /session/880364cc914f32e18a1dbc0b2743ccbc/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:13:51,409 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 13:14:19,984 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 13:48:53,466 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:48:53,467 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:48:53,469 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:48:53,469 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:48:53,469 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:48:54,474 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48343
+DEBUG   2022-10-06 13:48:58,131 [connectionpool] http://127.0.0.1:48343 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:48:58,410 [connectionpool] http://127.0.0.1:48343 "POST /session/be7c60af3d9c332a1777ecb7987c3faa/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:48:58,413 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:49:05,573 [connectionpool] http://127.0.0.1:48343 "POST /session/be7c60af3d9c332a1777ecb7987c3faa/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:49:06,704 [connectionpool] http://127.0.0.1:48343 "GET /session/be7c60af3d9c332a1777ecb7987c3faa/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:49:06,733 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:49:06,885 [connectionpool] http://127.0.0.1:48343 "POST /session/be7c60af3d9c332a1777ecb7987c3faa/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:49:06,975 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 13:50:02,084 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 13:50:02,191 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:50:02,191 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:50:02,192 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:50:02,192 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:50:02,192 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:50:03,197 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:33735
+DEBUG   2022-10-06 13:50:04,039 [connectionpool] http://127.0.0.1:33735 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:50:04,154 [connectionpool] http://127.0.0.1:33735 "POST /session/24ae3dad53c4293779b1a2d07a9fc4e5/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:50:04,155 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:50:04,300 [connectionpool] http://127.0.0.1:33735 "POST /session/24ae3dad53c4293779b1a2d07a9fc4e5/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:50:04,335 [connectionpool] http://127.0.0.1:33735 "GET /session/24ae3dad53c4293779b1a2d07a9fc4e5/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:50:04,336 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:50:04,339 [connectionpool] http://127.0.0.1:33735 "POST /session/24ae3dad53c4293779b1a2d07a9fc4e5/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:50:04,358 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 13:50:31,739 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-06 13:54:29,478 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:54:29,478 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:54:29,481 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:54:29,481 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:54:29,481 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:54:30,484 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:54947
+DEBUG   2022-10-06 13:54:31,169 [connectionpool] http://127.0.0.1:54947 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:54:31,277 [connectionpool] http://127.0.0.1:54947 "POST /session/07f32e4a541d7db3bb3a9946ba1e59ba/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:54:31,278 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:54:31,381 [connectionpool] http://127.0.0.1:54947 "POST /session/07f32e4a541d7db3bb3a9946ba1e59ba/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:54:31,383 [connectionpool] http://127.0.0.1:54947 "GET /session/07f32e4a541d7db3bb3a9946ba1e59ba/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:54:31,384 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:54:31,385 [connectionpool] http://127.0.0.1:54947 "POST /session/07f32e4a541d7db3bb3a9946ba1e59ba/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:54:31,391 [environment] Running new scenario: add to the cart
+ERROR   2022-10-06 13:54:31,393 [environment] The scenario 'add to the cart' has failed
+INFO    2022-10-06 13:54:31,534 [driver_utils] Screenshot saved in /home/okuhle/Downloads/Saucedemo 5/Saucedemo/output/screenshots/2022-10-06_135429_chrome/01_add_to_the_cart.png
+DEBUG   2022-10-06 13:54:31,535 [driver_utils] Reading driver logs of types 'browser, driver' and writing them to log files
+DEBUG   2022-10-06 13:54:31,609 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:54:31,609 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:54:31,610 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:54:31,610 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:54:31,610 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:54:32,615 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:36575
+DEBUG   2022-10-06 13:54:33,077 [connectionpool] http://127.0.0.1:36575 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:54:33,203 [connectionpool] http://127.0.0.1:36575 "POST /session/872bb1f50dfdc6b1aa8caf7518cde0b1/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:54:33,204 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:54:33,307 [connectionpool] http://127.0.0.1:36575 "POST /session/872bb1f50dfdc6b1aa8caf7518cde0b1/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:54:33,309 [connectionpool] http://127.0.0.1:36575 "GET /session/872bb1f50dfdc6b1aa8caf7518cde0b1/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:54:33,309 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:54:33,310 [connectionpool] http://127.0.0.1:36575 "POST /session/872bb1f50dfdc6b1aa8caf7518cde0b1/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:54:33,310 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-06 13:54:59,805 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-06 13:54:59,903 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-06 13:54:59,904 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-06 13:54:59,904 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-06 13:54:59,904 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-06 13:54:59,904 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-06 13:55:00,907 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:47175
+DEBUG   2022-10-06 13:55:01,829 [connectionpool] http://127.0.0.1:47175 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-06 13:55:01,956 [connectionpool] http://127.0.0.1:47175 "POST /session/b183da57ba921465a24be7ab20b2958f/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-06 13:55:01,957 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-06 13:55:02,121 [connectionpool] http://127.0.0.1:47175 "POST /session/b183da57ba921465a24be7ab20b2958f/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:55:02,139 [connectionpool] http://127.0.0.1:47175 "GET /session/b183da57ba921465a24be7ab20b2958f/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-06 13:55:02,139 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-06 13:55:02,141 [connectionpool] http://127.0.0.1:47175 "POST /session/b183da57ba921465a24be7ab20b2958f/timeouts HTTP/1.1" 200 14
+INFO    2022-10-06 13:55:02,147 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-06 13:55:29,312 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed
+DEBUG   2022-10-07 09:25:47,310 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-07 09:25:47,310 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-07 09:25:47,313 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-07 09:25:47,313 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-07 09:25:47,313 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-07 09:25:48,316 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46401
+DEBUG   2022-10-07 09:25:48,575 [connectionpool] http://127.0.0.1:46401 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-07 09:25:48,684 [connectionpool] http://127.0.0.1:46401 "POST /session/ddc2acd32eacf0ee02468807276029ec/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-07 09:25:48,684 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-07 09:25:48,787 [connectionpool] http://127.0.0.1:46401 "POST /session/ddc2acd32eacf0ee02468807276029ec/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-07 09:25:48,790 [connectionpool] http://127.0.0.1:46401 "GET /session/ddc2acd32eacf0ee02468807276029ec/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-07 09:25:48,790 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-07 09:25:48,790 [connectionpool] http://127.0.0.1:46401 "POST /session/ddc2acd32eacf0ee02468807276029ec/timeouts HTTP/1.1" 200 14
+INFO    2022-10-07 09:25:48,791 [environment] Running new scenario: All login -- @1.1 Usernames and Password
+INFO    2022-10-07 09:26:17,186 [environment] The scenario 'All login -- @1.1 Usernames and Password' has passed
+DEBUG   2022-10-07 09:26:17,250 [config_parser] Reading properties from file: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/properties.cfg
+DEBUG   2022-10-07 09:26:17,250 [config_parser] Properties config file not found: /home/okuhle/Downloads/Saucedemo 5/Saucedemo/conf/local-properties.cfg
+INFO    2022-10-07 09:26:17,250 [config_driver] Creating local driver (type = chrome)
+DEBUG   2022-10-07 09:26:17,250 [config_driver] Chrome driver path given in properties: /usr/bin/chromedriver
+DEBUG   2022-10-07 09:26:17,250 [config_driver] Added chrome argument: allow-no-sandbox-job=false
+DEBUG   2022-10-07 09:26:18,253 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:55823
+DEBUG   2022-10-07 09:26:18,479 [connectionpool] http://127.0.0.1:55823 "POST /session HTTP/1.1" 200 754
+DEBUG   2022-10-07 09:26:18,591 [connectionpool] http://127.0.0.1:55823 "POST /session/a8c6749259d118a9e34845d06351bd65/window/rect HTTP/1.1" 200 50
+DEBUG   2022-10-07 09:26:18,591 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2022-10-07 09:26:18,694 [connectionpool] http://127.0.0.1:55823 "POST /session/a8c6749259d118a9e34845d06351bd65/window/maximize HTTP/1.1" 200 51
+DEBUG   2022-10-07 09:26:18,697 [connectionpool] http://127.0.0.1:55823 "GET /session/a8c6749259d118a9e34845d06351bd65/window/rect HTTP/1.1" 200 51
+DEBUG   2022-10-07 09:26:18,697 [driver_wrapper] Window size: 1292 x 741
+DEBUG   2022-10-07 09:26:18,697 [connectionpool] http://127.0.0.1:55823 "POST /session/a8c6749259d118a9e34845d06351bd65/timeouts HTTP/1.1" 200 14
+INFO    2022-10-07 09:26:18,698 [environment] Running new scenario: All login -- @1.2 Usernames and Password
+INFO    2022-10-07 09:26:45,066 [environment] The scenario 'All login -- @1.2 Usernames and Password' has passed

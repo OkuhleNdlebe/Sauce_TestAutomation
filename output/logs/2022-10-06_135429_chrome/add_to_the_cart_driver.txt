@@ -1,0 +1,4 @@
+
+2022-10-06 13:54:31.539345 'add_to_the_cart' test logs with driver = chrome
+
+2022-10-06 13:54:31.004000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.
